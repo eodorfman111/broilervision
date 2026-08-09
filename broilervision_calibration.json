@@ -1,0 +1,21 @@
+{
+  "stress_thresh": 9.021,
+  "crowd_thresh": 0.263,
+  "motion_stats": {
+    "mean": 8.43,
+    "p50": 8.501,
+    "p88": 9.021,
+    "max": 9.346
+  },
+  "cluster_stats": {
+    "mean": 0.251,
+    "p50": 0.249,
+    "p75": 0.263,
+    "max": 0.277
+  },
+  "count_stats": {
+    "mean": 34.1,
+    "min": 25,
+    "max": 43
+  }
+}

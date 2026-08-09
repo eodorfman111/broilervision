@@ -1,0 +1,10 @@
+*.pt
+*_overlay.mp4
+footage/*_looped.mp4
+footage/barn2_*.mp4
+frames_for_labeling/
+frames_for_labeling.zip
+test_coop/
+__pycache__/
+*.pyc
+.DS_Store
