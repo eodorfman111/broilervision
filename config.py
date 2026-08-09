@@ -37,19 +37,18 @@ CONFIG = Config(
     max_simultaneous_mortality_alerts=1,
 
     # Hero copy
-    hero_badge="BroilerVision · YOLO26 Overhead Detection",
-    hero_headline="Catch the FCR losses and downed birds a walk-through misses",
+    hero_badge="BroilerVision · AI Overhead Monitoring",
+    hero_headline="See every bird in the house, every second — not just on walk-throughs",
     hero_subheadline=(
-        "Overhead AI monitoring that counts every bird, flags crowding before it "
-        "hurts weight gain, and catches a downed bird the same day — not on the "
-        "next walk-through."
+        "Live bird counts, early crowding alerts, and same-day mortality detection — "
+        "problems your team would otherwise catch a day or two late."
     ),
 
     # Impact strip — the ROI pitch
     impact_stats=[
-        ImpactStat("60&ndash;70%", "of production cost is feed — FCR is where the margin lives"),
-        ImpactStat("$1,000s", "recovered per FCR point saved, across a 20k-bird house, per cycle"),
-        ImpactStat("42&ndash;49 days", "per grow-out cycle — every day undetected is margin already lost"),
+        ImpactStat("60&ndash;70%", "of production cost is feed"),
+        ImpactStat("$1,000s", "saved per FCR point, per 20k-bird house"),
+        ImpactStat("42&ndash;49 days", "grow-out cycle length"),
     ],
 
     # Capability cards
